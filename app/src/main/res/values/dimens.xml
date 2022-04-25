@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- fab버튼 이미지 크기변경을 위한 xml -->
+    <dimen name="design_fab_size_normal" tools:override="true">58dp</dimen>
+    <dimen name="design_fab_image_size" tools:override="true">50dp</dimen>
+
+    <!-- viewpager2 에니메이션을 위한 xml -->
+    <dimen name="viewpager2_preview">26dp</dimen>
+    <dimen name="viewpager2_page_margin">42dp</dimen>
+</resources>
